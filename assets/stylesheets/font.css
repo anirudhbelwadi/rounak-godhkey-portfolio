@@ -1,0 +1,79 @@
+@font-face {
+  font-family: CommutersSans-Bold;
+  src: url(../fonts/CommutersSans-Bold.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-BoldItalic;
+  src: url(../fonts/CommutersSans-BoldItalic.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-ExtraBold;
+  src: url(../fonts/CommutersSans-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-ExtraBoldItalic;
+  src: url(../fonts/CommutersSans-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-ExtraLight;
+  src: url(../fonts/CommutersSans-ExtraLight.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-ExtraLightItalic;
+  src: url(../fonts/CommutersSans-ExtraLightItalic.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-Heavy;
+  src: url(../fonts/CommutersSans-Heavy.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-HeavyItalic;
+  src: url(../fonts/CommutersSans-HeavyItalic.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-Italic;
+  src: url(../fonts/CommutersSans-Italic.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-Light;
+  src: url(../fonts/CommutersSans-Light.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-LightItalic;
+  src: url(../fonts/CommutersSans-LightItalic.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-Regular;
+  src: url(../fonts/CommutersSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-SemiBold;
+  src: url(../fonts/CommutersSans-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-SemiBoldItalic;
+  src: url(../fonts/CommutersSans-SemiBoldItalic.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-Thin;
+  src: url(../fonts/CommutersSans-Thin.ttf);
+}
+
+@font-face {
+  font-family: CommutersSans-ThinItalic;
+  src: url(../fonts/CommutersSans-ThinItalic.ttf);
+}
